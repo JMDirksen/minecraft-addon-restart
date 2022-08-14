@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Stop the server after a certain time",
+        "name": "Restart",
+        "uuid": "3050ab5c-c282-45ef-8e77-93483edb5103",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 19, 0]
+    },
+    "modules": [
+        {
+            "description": "Restart",
+            "type": "data",
+            "uuid": "9d75a58e-b714-4323-96e3-57e0d631c145",
+            "version": [1, 0, 0]
+        }
+    ]
+}
